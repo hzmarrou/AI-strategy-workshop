@@ -3,6 +3,8 @@
 ## Overview 🎯
 A comprehensive one-day workshop designed to guide organizations through the essential aspects of AI adoption, from strategy development to practical implementation.
 
+![AI Adoption Process](img/ai-ready.svg)
+
 ## Duration ⏱️
 6 hours (excluding breaks)
 
