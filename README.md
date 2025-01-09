@@ -10,7 +10,7 @@ A comprehensive one-day workshop designed to guide organizations through the ess
 
 ## Detailed Agenda 📋
 
-### 1. Opening: Market Insights & AI Adoption Experiences (45 minutes) 💫
+### 1. Opening: Market Insights & AI Adoption Experiences (X minutes) 💫
 
 - Real-world AI adoption journey insights
 
@@ -22,45 +22,45 @@ A comprehensive one-day workshop designed to guide organizations through the ess
 - Critical success factors
 - Interactive discussion on shared experiences
 
-### 2. Introduction to AI Adoption (30 minutes) 🌟
+### 2. Introduction to AI Adoption (X minutes) 🌟
 - Overview of the six-step AI adoption process
 - Importance of AI for organizations
 
-### 3. AI Strategy Development (60 minutes) 💡
+### 3. AI Strategy Development (X minutes) 💡
 - Creating an AI center of excellence (AI CoE)
 - Identifying AI use cases
 - Enhancing individual efficiency and improving business processes
 - Setting AI targets (goals, objectives, and success metrics)
 
-### 4. AI Technology Strategy (45 minutes) 🔧
+### 4. AI Technology Strategy (X minutes) 🔧
 - Overview of Microsoft AI solutions (SaaS, PaaS, IaaS)
 - AI decision tree exercise
 - Factors to consider: skills, data readiness, and budget
 
 ### 5. Break (15 minutes) ☕
 
-### 6. AI Data Strategy (45 minutes) 📊
+### 6. AI Data Strategy (X minutes) 📊
 - Importance of data in AI adoption
 - Establishing data governance
 - Planning the data lifecycle
 
-### 7. AI Planning and Readiness (45 minutes) 📝
+### 7. AI Planning and Readiness (X minutes) 📝
 - Assessing and acquiring AI skills
 - Prioritizing AI use cases
 - Creating AI proof of concepts
 - Building an AI environment
 
-### 8. Governing, Managing, and Securing AI (60 minutes) 🔒
+### 8. Governing, Managing, and Securing AI (X minutes) 🔒
 - Enforcing AI governance policies
 - Managing AI models, costs, and operations
 - Implementing AI security controls
 
-### 9. Hands-on Exercise: AI Use Case Development (45 minutes) 👥
+### 9. Hands-on Exercise: AI Use Case Development (X minutes) 👥
 - Group work on developing AI use cases
 - Practical application of workshop concepts
 - Organization-specific scenarios
 
-### 10. Conclusion and Q&A (15 minutes) ✨
+### 10. Conclusion and Q&A (X minutes) ✨
 - Key points recap
 - Next steps discussion
 - Open Q&A session
